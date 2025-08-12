@@ -58,7 +58,7 @@ Key functionalities:
 - Servo door opens automatically when someone approaches  
 - Gas sensor triggers buzzer alert  
 - Fan turns ON when motion is detected
-- 
+  
 ## Future Enhancements
 - IoT integration for remote monitoring  
 - Mobile app control  
@@ -68,7 +68,8 @@ Key functionalities:
 ##  References
 - [Arduino Official Website](https://www.arduino.cc/)  
 - [Tinkercad Circuits](https://www.tinkercad.com/)  
-- IEEE Smart Home Research Papers  
+- IEEE Smart Home Research Papers
+- PROJECT LINK:https://www.tinkercad.com/things/gThsNBIdqrn-smart-home-automation-sabarish/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits
 
 ##  Author
 **Kiruthick Sabarish S**    
